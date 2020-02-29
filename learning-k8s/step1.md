@@ -14,7 +14,7 @@ KubeDNS is running at https://172.17.0.68:6443/api/v1/namespaces/kube-system/ser
 To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
 ```
 
-To find out at what version the cluster is running use: `kubectl cluster-info`{{execute}} (click to execute)
+To find out at what version the cluster is running use: `kubectl version`{{execute}} (click to execute)
 
 ```
 $ kubectl version
